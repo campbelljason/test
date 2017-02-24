@@ -1,0 +1,3 @@
+permalink: pretty
+baseurl: "/my-first-github-site"
+exclude: ['README.md']

@@ -1,0 +1,78 @@
+html {
+    margin: 0;
+    padding: 0;
+
+    font: Georgia,serif;
+}
+
+.current  {
+  background-color: #000531;
+  color: #fff;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+}
+
+.nav > li {
+  display: inline-block;
+}
+
+.nav-top {
+  font-size: 1.5rem;
+}
+
+a.btn {
+  padding: 0.7em 0.9em;
+  display: inline-block;
+  background-color: #33c;
+  background-image: linear-gradient(to bottom, #33c, #336);
+  border-radius: 8px;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background-color: #33f;
+  background-image: linear-gradient(to bottom, #33f, #339);
+}
+
+.icon{
+  display: inline-block;
+  background: transparent none no-repeat center center;
+  background-size: contain;
+  vertical-align: middle;
+  height: 32px;
+  width: 32px;
+  background-image: url(../img/wine-glass.png);
+  padding: 5px;
+  margin: 5px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.media{
+  overflow: hidden;
+}
+
+.media-img{
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.media-body{
+  overflow: hidden;
+}
+
+.media-title{
+  margin: 0;
+  font-weight: bold;
+  font-size: 1rem;
+}

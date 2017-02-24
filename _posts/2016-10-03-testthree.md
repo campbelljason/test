@@ -1,0 +1,11 @@
+---
+layout: news
+title: Test Title
+meta: Testing Meta
+source: http://jasoncampbell.ca
+category: news
+---
+
+Testing out posts on jekyll I dont know what i am doing
+
+Test Three
